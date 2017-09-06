@@ -1,4 +1,4 @@
-package daily;
+package practise;
 
 public class sort {
 	//—°‘Ò≈≈–Ú
